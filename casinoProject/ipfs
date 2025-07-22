@@ -1,0 +1,3 @@
+
+ipfs add -r dist/
+ls
